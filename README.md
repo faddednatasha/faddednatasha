@@ -102,16 +102,6 @@ I'm a passionate Data & Business Analytics enthusiast with a strong foundation i
 🔹 Engineered the UI/UX for a food delivery platform, streamlining the process from discovery to checkout. \
 🔹 Focused on mobile-first design, ensuring a responsive and accessible interface for diverse users. \
 🔹 Prototyped interactive elements to simulate a real-world ordering experience.
-## ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=highcontrast)
----
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1003&color=8EB897&width=435&lines=Thanks+for+visiting!+;Let%E2%80%99s+connect+and+explore+data-driven+solutions+together" alt="Typing SVG" />
-  </a>
-</p>
- 
 [![](https://visitcount.itsvg.in/api?id=faddednatasha&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
