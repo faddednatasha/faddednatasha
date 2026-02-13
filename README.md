@@ -3,6 +3,12 @@
 </p>
 
 ---
+<div align="center">
+ 
+  <img src="https://nirzak-streak-stats.vercel.app/?user=faddednatasha&theme=dracula&hide_border=true" alt="GitHub Streak" />
+ 
+</div>
+
 ## 👋 About Me:
 
 I'm a passionate Data & Business Analytics enthusiast with a strong foundation in Data Science, Machine Learning, and UI/UX Design. I enjoy uncovering meaningful insights from complex datasets and turning them into actionable strategies and intuitive digital experiences. My journey involves a blend of analytical problem-solving and user-centered design, focused on making data both impactful and accessible.
@@ -96,11 +102,6 @@ I'm a passionate Data & Business Analytics enthusiast with a strong foundation i
 🔹 Engineered the UI/UX for a food delivery platform, streamlining the process from discovery to checkout. \
 🔹 Focused on mobile-first design, ensuring a responsive and accessible interface for diverse users. \
 🔹 Prototyped interactive elements to simulate a real-world ordering experience.
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=faddednatasha&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=faddednatasha&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=faddednatasha&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 ## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=highcontrast)
