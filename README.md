@@ -106,4 +106,4 @@ I'm a passionate Data & Business Analytics enthusiast with a strong foundation i
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
+![Views](https://komarev.com/ghpvc/?username=faddednatasha&color=blue&style=flat-square)
