@@ -102,8 +102,9 @@ I'm a passionate Data & Business Analytics enthusiast with a strong foundation i
 🔹 Engineered the UI/UX for a food delivery platform, streamlining the process from discovery to checkout. \
 🔹 Focused on mobile-first design, ensuring a responsive and accessible interface for diverse users. \
 🔹 Prototyped interactive elements to simulate a real-world ordering experience.
-[![](https://visitcount.itsvg.in/api?id=faddednatasha&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=8EB897&width=435&lines=Thanks+for+visiting+my+GitHub+!!;Let%E2%80%99s+connect+and+explore+data-driven+solutions+together.)](https://git.io/typing-svg)
 
 ![Views](https://komarev.com/ghpvc/?username=faddednatasha&color=blue&style=flat-square)
