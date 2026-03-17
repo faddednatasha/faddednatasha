@@ -11,7 +11,7 @@
 
 ## 👋 About Me:
 
-I'm a passionate Data & Business Analytics enthusiast with a strong foundation in Data Science, Machine Learning, and UI/UX Design. I enjoy uncovering meaningful insights from complex datasets and turning them into actionable strategies and intuitive digital experiences. My journey involves a blend of analytical problem-solving and user-centered design, focused on making data both impactful and accessible.Currently seeking Data Analyst / Business Analyst roles in Singapore (graduating July 2026, open to EP sponsorship).
+I'm a passionate Data & Business Analytics enthusiast with a strong foundation in Data Science, Machine Learning, and UI/UX Design. I enjoy uncovering meaningful insights from complex datasets and turning them into actionable strategies and intuitive digital experiences. My journey involves a blend of analytical problem-solving and user-centered design, focused on making data both impactful and accessible. Currently seeking Data Analyst / Business Analyst roles in Singapore (graduating July 2026, open to EP sponsorship).
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aayushiiit/) 
