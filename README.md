@@ -5,8 +5,7 @@
 ---
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faddednatasha&theme=dracula&hide_border=true" alt="GitHub Streak" />
-  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=faddednatasha&theme=dracula)](https://git.io/streak-stats)
 </div>
 
 ## 👋 About Me:
