@@ -4,8 +4,9 @@
 
 ---
 <div align="center">
+  
+![](https://streak-stats.demolab.com/?user=faddednatasha&theme=dracula&hide_border=false)<br/>
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=faddednatasha&theme=dracula)](https://git.io/streak-stats)
 </div>
 
 ## 👋 About Me:
